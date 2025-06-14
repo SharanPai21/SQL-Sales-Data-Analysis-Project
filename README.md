@@ -10,7 +10,7 @@ A comprehensive retail sales analysis project demonstrating advanced SQL Server 
 This project showcases end-to-end data analysis capabilities using SQL Server, from database setup and data cleaning to solving complex business questions. The analysis covers customer behavior, sales performance, and operational insights from retail transaction data.
 
 ## 📊 Dataset Details
-- **Records**: 1000+ retail transactions
+- **Records**: 2000+ retail transactions
 - **Time Period**: 2022-2023
 - **Categories**: Beauty, Clothing, Electronics
 - **Key Metrics**: Customer demographics, sales amounts, product categories, timestamps
